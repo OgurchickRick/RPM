@@ -12,3 +12,4 @@ if __name__ == "__main__":
             print("X1=", x1, "X2=", x2)
     else:
         print("Нет корней")
+# bebebebe
